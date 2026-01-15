@@ -84,7 +84,7 @@ export default function Hero() {
           >
             <button className="group relative px-6 py-3 md:px-8 md:py-4 bg-[#151816] text-white rounded-full font-semibold text-base md:text-lg shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-105 glow-effect overflow-hidden">
               <span className="relative z-10 flex items-center gap-2">
-                Get Started
+                <a href="https://malgistappmantle.vercel.app/dashboard">Get Started</a>
                 <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                 </svg>

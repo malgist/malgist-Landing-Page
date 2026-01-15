@@ -53,7 +53,7 @@ export default function Navbar() {
           {/* Desktop CTAs */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="#"
+              href="https://malgistappmantle.vercel.app/dashboard"
               className="bg-[#151816] text-white px-4 py-3 rounded-full text-sm font-semibold hover:bg-gray-900 transition-all duration-300 hover:scale-105 shadow-sm"
             >
               Go to app
